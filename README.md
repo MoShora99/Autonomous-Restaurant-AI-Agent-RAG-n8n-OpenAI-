@@ -11,6 +11,8 @@ Below are screenshots showing how the application works.
 ![Project Preview](images/1.PNG)
 ![Project Preview](images/2.PNG)
 ![Project Preview](images/3.PNG)
+![Project Preview](images/4.PNG)
+![Project Preview](images/5.PNG)
 
 ---
 
