@@ -6,6 +6,13 @@ The platform combines **AI Agents, workflow automation, and Retrieval-Augmented 
 This project demonstrates how conversational AI can transform traditional restaurant customer support into a **scalable, fully automated service system**.
 
 ---
+⚠️ The project is currently running locally and not deployed yet.
+Below are screenshots showing how the application works.
+![Project Preview](images/1.PNG)
+![Project Preview](images/2.PNG)
+![Project Preview](images/3.PNG)
+
+---
 
 # 🚀 Features
 
